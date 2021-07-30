@@ -6,7 +6,7 @@ Sourcers Who Code Founder 🤓
 OSINT Tinkerer 🔎 
 #TalkNerdyToMe
 
-(https://github.com/ohsusannamarie/ohsusannamarie/gif.mp4)
+![ohsusannamarie](https://user-images.githubusercontent.com/6549328/127587263-85056455-3efb-4f97-8d7e-027979e47099.gif)
 
 🤑 Owner @ Sourcing FYI
 🤓 Founder of Sourcers Who Code
@@ -15,7 +15,7 @@ OSINT Tinkerer 🔎
 🙃 Wannabe Data Scientist
 #BooleanIsSEXY
 
-(https://github.com/ohsusannamarie/ohsusannamarie/gryffindor.png)
+![Gryffindor](https://user-images.githubusercontent.com/6549328/127587300-a5f92c21-5103-49aa-9d2b-31f922f5c61a.png)
 
 - [Twitter](https://twitter.com/ohsusannamarie) 🐤🔗
 - [LinkedIn](https://linkedin.com/in/ohsusannamarie) 🤓🔗

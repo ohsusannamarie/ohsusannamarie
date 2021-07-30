@@ -1,16 +1,25 @@
-### Hi there 👋
+Tech Sourcing Leader AND Trainer 🌎 
+Talent Stalker NOT Talker 😈 
+3𝘅 SourceCon Hackathon Champ 🏆 
+Innovation Star Award Recipient ⭐️
+Sourcers Who Code Founder 🤓 
+OSINT Tinkerer 🔎 
+#TalkNerdyToMe
 
-<!--
-**ohsusannamarie/ohsusannamarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(https://github.com/ohsusannamarie/ohsusannamarie/gif.mp4)
 
-Here are some ideas to get you started:
+🤑 Owner @ Sourcing FYI
+🤓 Founder of Sourcers Who Code
+👩‍💻 HR Tech Advisor
+👩‍🏫 Former Kindergarten Teacher
+🙃 Wannabe Data Scientist
+#BooleanIsSEXY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(https://github.com/ohsusannamarie/ohsusannamarie/gryffindor.png)
+
+- [Twitter](https://twitter.com/ohsusannamarie) 🐤🔗
+- [LinkedIn](https://linkedin.com/in/ohsusannamarie) 🤓🔗
+- [YouTube](youtube.com/c/sourcingfyi) 👩‍🏫🔗
+- [Website](https://ohsusannamarie.com/) 😏🔗
+- [Github](https://github.com/ohsusannamarie)👩‍ 💻🔗
+- [Email](me@ohsusannamarie.com) 💌🔗

@@ -1,4 +1,4 @@
-- Tech Sourcing Leader AND Trainer 🌎 
+- Tech Sourcing Leader 🌎 
 - Talent Stalker NOT Talker 😈 
 - 3𝘅 SourceCon Hackathon Champ 🏆 
 - Innovation Star Award Recipient ⭐️

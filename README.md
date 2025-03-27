@@ -16,3 +16,5 @@
 - [Website](https://ohsusannamarie.com/) 😏🔗
 - [Github](https://github.com/ohsusannamarie)👩‍ 💻🔗
 - [Email](me@ohsusannamarie.com) 💌🔗
+
+![](https://hit.yhype.me/github/profile?account_id=6549328)

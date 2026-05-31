@@ -4,7 +4,7 @@ I'm a talent intelligence nerd who builds things.
 
 Not "builds things" like I dabble - I mean I understand problems by turning them into artifacts.
 
-Command centers. Pipeline trackers. Boolean libraries.  
+Command centers. Pipeline trackers. Boolean libraries.
 Search workflows. Heat maps. Playbooks.
 
 If the information only lives in my head, it does not exist yet.
@@ -23,27 +23,29 @@ By compulsion: I will absolutely turn your sourcing problem into a command cente
 
 Built because I got tired of losing tools I loved.
 
-### [Awesome-Talent-Sourcing](https://github.com/ohsusannamarie/Awesome-Talent-Sourcing)
+### [talent-sourcing-toolkit](https://github.com/ohsusannamarie/talent-sourcing-toolkit)
 
-A curated list of sourcing resources - tools, extensions, websites, and research shortcuts.
+A curated library of sourcing tools, Chrome extensions, research sites, and recruiter resources.
 
-Community-maintained. PRs welcome.
+Built for modern talent teams.
 
-### [Instant-Data-Scraper-Chrome-Extension](https://github.com/ohsusannamarie/Instant-Data-Scraper-Chrome-Extension-v0.1.7)
+### [instant-data-scraper-linkedin](https://github.com/ohsusannamarie/instant-data-scraper-linkedin)
 
-A packed Chrome extension with LinkedIn scraping functionality preserved.
+A packed Chrome extension preserving LinkedIn scraping functionality from Instant Data Scraper v0.1.7.
 
 For people who understand that useful data rarely arrives in a tidy export.
 
 ### [GitHub-advanced-search](https://github.com/ohsusannamarie/GitHub-advanced-search)
 
-The full cheat sheet of GitHub search operators.
+GitHub search operators, advanced search syntax, and recruiter-friendly techniques for finding technical talent.
 
 Because GitHub is a talent database and most people do not know it yet.
 
-### [Shareworthy Technical Interview Prep Resources](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources)
+### [technical-interview-prep-toolkit](https://github.com/ohsusannamarie/technical-interview-prep-toolkit)
 
-A practical collection of interview prep resources, coding practice, guides, and candidate-friendly references.
+Candidate-friendly technical interview prep resources, coding practice links, guides, and shareable references.
+
+Built for the “do you have anything I can send them?” moment.
 
 ---
 
@@ -69,4 +71,4 @@ A practical collection of interview prep resources, coding practice, guides, and
 
 ## find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ohsusannamarie) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@talksnerdy) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ohsusannamarie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ohsusannamarie) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://youtube.com/@talksnerdy) [![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:ohsusannamarie@gmail.com)

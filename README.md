@@ -1,74 +1,74 @@
 # Hi, I'm Susanna 👋
 
-I'm a talent intelligence nerd who builds things.
+I build **talent intelligence functions** - the structured market view most TA organizations don't have yet. Not "build" like I dabble - I mean I understand problems by turning them into artifacts. Command centers. Market maps. Intelligence libraries. Search workflows. Playbooks. If the information only lives in my head, it does not exist yet.
 
-Not "builds things" like I dabble - I mean I understand problems by turning them into artifacts.
+**By day:** Talent Intelligence & Sourcing Leader at [Marvell Technology](https://www.marvell.com), building the company's first structured view of the global semiconductor and AI/ML talent market.
 
-Command centers. Pipeline trackers. Boolean libraries.
-Search workflows. Heat maps. Playbooks.
+**By track record:** Four companies have hired me to build a function that didn't exist. This is where the tooling behind those builds lives.
 
-If the information only lives in my head, it does not exist yet.
+**By reputation:** 3x SourceCon Global Hackathon Champion (now judge and challenge creator, which is what happens when they get tired of you winning). Founder of [Sourcers Who Code](https://www.facebook.com/groups/SourcersWhoCode) (5,700+ members). Co-host of Boolean AND Brews.
 
-By day: **Senior Talent Intelligence & Sourcing Strategist at Marvell Technology**, focused on semiconductor and AI/ML engineering talent.<br>
-By reputation: **3x SourceCon Hackathon Champion.**<br>
-By compulsion: I will absolutely turn your sourcing problem into a command center.
+**By compulsion:** I will absolutely turn your talent market problem into a command center.
 
 ---
 
-## what you'll find here
+## the intelligence layer
 
-### [bookmarklet-os](https://github.com/ohsusannamarie/bookmarklet-os)
+**[talent-intelligence-playbook](https://github.com/ohsusannamarie/talent-intelligence-playbook)**
+Talent intelligence library for semiconductor and AI recruiting - interactive guides, market maps, and leadership briefs. The operating system for how I think about talent markets.
 
-475 browser bookmarklets - searchable, filterable, one file, no extensions.
+**[talent-intelligence-os](https://github.com/ohsusannamarie/talent-intelligence-os)**
+Browser-based talent intelligence platform for signal tracking, sourcing analytics, and workforce strategy. I said command center. I meant it.
 
-Built because I got tired of losing tools I loved.
+---
 
-### [talent-sourcing-toolkit](https://github.com/ohsusannamarie/talent-sourcing-toolkit)
+## the craft that powers it
 
-A curated library of sourcing tools, Chrome extensions, research sites, and recruiter resources.
+**[talent-sourcing-toolkit](https://github.com/ohsusannamarie/talent-sourcing-toolkit)**
+A curated library of sourcing tools, Chrome extensions, research sites, and recruiter resources. Built for modern talent teams.
 
-Built for modern talent teams.
+**[bookmarklet-os](https://github.com/ohsusannamarie/bookmarklet-os)**
+Browser productivity operating system with 150+ bookmarklets, AI-assisted discovery, collections, and visual maps. Built because I got tired of losing tools I loved.
 
-### [instant-data-scraper-linkedin](https://github.com/ohsusannamarie/instant-data-scraper-linkedin)
+**[GitHub-advanced-search](https://github.com/ohsusannamarie/GitHub-advanced-search)**
+Search operators, advanced syntax, and research techniques for mapping technical talent. Because GitHub is a talent database and most people do not know it yet.
 
-A packed Chrome extension preserving LinkedIn scraping functionality from Instant Data Scraper v0.1.7.
+---
 
-For people who understand that useful data rarely arrives in a tidy export.
+## useful side quests
 
-### [GitHub-advanced-search](https://github.com/ohsusannamarie/GitHub-advanced-search)
+I build to understand things. Sometimes the thing is a talent market. Sometimes it is not.
 
-GitHub search operators, advanced search syntax, and recruiter-friendly techniques for finding technical talent.
-
-Because GitHub is a talent database and most people do not know it yet.
-
-### [technical-interview-prep-toolkit](https://github.com/ohsusannamarie/technical-interview-prep-toolkit)
-
-Candidate-friendly technical interview prep resources, coding practice links, guides, and shareable references.
-
-Built for the “do you have anything I can send them?” moment.
+- **[night-sky-companion](https://github.com/ohsusannamarie/night-sky-companion)** - beginner-friendly astronomy companion with weather-aware recommendations, because night owls should know what they're looking at
+- **[thrift-scout](https://github.com/ohsusannamarie/thrift-scout)** - point your phone camera at a thrift store shelf, get live eBay comps and resale ROI. Sourcing is sourcing.
+- **[kentucky-permit-prep](https://github.com/ohsusannamarie/kentucky-permit-prep)** - ADHD-friendly permit test prep app with 162 practice questions, built for a friend who needed it
+- **[personality-profiler](https://github.com/ohsusannamarie/personality-profiler)** - turn a list of follows or interests into a personality dossier: traits, motivations, archetype, and counter-signals. Pattern recognition doesn't clock out.
+- **[wikipedia-paul](https://github.com/ohsusannamarie/wikipedia-paul)** - a fake Wikipedia article built as a Fourth of July gift, complete with talk page arguments, edit wars, and a sockpuppet accusation. Some gifts are store-bought. Mine have citations.
 
 ---
 
 ## a few things about me
 
-* I founded **Sourcers Who Code** because sourcers who build their own tools are a different kind of dangerous
-* I believe sourcing is an intelligence problem, not a volume problem
-* I care about OSINT, search strategy, talent mapping, and the weird little workflows that make research faster
-* I use AI the way most people use Google, except I am also building with it
-* Night owl. Music always on. Harvey nearby, supervising with emotional authority
+- I founded Sourcers Who Code because sourcers who build their own tools are a different kind of dangerous
+- I believe hiring is an intelligence problem, not a volume problem - the market view is the missing infrastructure
+- I care about OSINT, labor market research, talent mapping, and the weird little workflows that turn scattered signals into actual hiring decisions
+- I use AI the way most people use Google, except I am also building with it
+- Night owl. Music always on. Harvey nearby, supervising with emotional authority
 
 ---
 
-## currently exploring
+## currently building
 
-* AI-assisted sourcing and research workflows
-* Agentic research pipelines for talent intelligence
-* Recruiter command centers and reusable knowledge systems
-* Lightweight tools that make sourcing faster without requiring a giant tech stack
-* Better ways to turn scattered market signals into actual hiring decisions
+- **Original research on the talent intelligence profession** - starting with an analysis of executive TI job descriptions and where the field is quietly splitting in two (essay dropping soon; the data pipeline will live here)
+- Agentic research pipelines for talent intelligence
+- Recruiter command centers and reusable knowledge systems
+- Lightweight tools that make market research faster without requiring a giant tech stack
 
 ---
 
 ## find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ohsusannamarie) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://youtube.com/@talksnerdy) [![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:ohsusannamarie@gmail.com)
+- 💼 LinkedIn: [in/ohsusannamarie](https://www.linkedin.com/in/ohsusannamarie)
+- 🌐 Resume: [ohsusannamarie.github.io/resume](https://ohsusannamarie.github.io/resume)
+- 📺 YouTube: [@talksnerdy](https://www.youtube.com/@talksnerdy)
+- 📬 ohsusannamarie@gmail.com
